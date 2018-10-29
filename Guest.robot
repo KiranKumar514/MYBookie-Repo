@@ -37,6 +37,7 @@ Submenu
 
 Sportsbook
     Selenium2Library.Click Element    //*[@id="menu-item-204"]/a
+    Selenium2Library.Capture Page Screenshot    filename=sports.png
 
 Casino
     Selenium2Library.Set Selenium Implicit Wait    2
