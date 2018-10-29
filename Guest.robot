@@ -35,6 +35,9 @@ Submenu
     Selenium2Library.Click Image    xpath=//img[contains(@alt,'100% Referral Bonuses')]
     Selenium2Library.Click Image    //img[contains(@alt,'75% Sports Reload')]
 
+Sportsbook
+    Selenium2Library.Click Element    //*[@id="menu-item-204"]/a
+
 Casino
     Selenium2Library.Set Selenium Implicit Wait    2
     Selenium2Library.Click Element    //*[@id="menu-item-202"]/a
