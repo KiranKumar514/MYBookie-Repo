@@ -282,8 +282,11 @@ Contests
     sleep    1
     Selenium2library.Click Element    id=survivor-join
     Selenium2Library.Go Back
+
+<<<<<<< Updated upstream
     Selenium2Library.Title Should Be    Betting Games & Members Contests, Win Cash & Prizes | Mybookie Sportsbook
     Close All Browsers
+    sleep    1
 
 *** Keywords ***
 Scroll Page to Location
