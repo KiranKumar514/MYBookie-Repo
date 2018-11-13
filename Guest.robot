@@ -28,7 +28,7 @@ Homepage
 Submenu
     Scroll Page to Location    0    750
     Selenium2Library.Set Selenium Implicit Wait    3
-    Selenium2Library.Click Image    xpath=//img[contains(@alt, 'MyBookie 100% Sign-Up Bonus')]
+    Selenium2Library.Click Image    xpath=//img[contains(@alt, 'MyBookie 50% Sign-Up Bonus')]
     Selenium2Library.Set Selenium Implicit Wait    1
     Selenium2Library.Click Image    xpath=//img[contains(@alt,'Squares Contest')]
     Selenium2Library.Set Selenium Implicit Wait    1
@@ -260,7 +260,7 @@ Additional Bonuses
     Selenium2library.Click Element    (//img[@class='img-responsive'])[47]
     sleep    1
     Selenium2library.Click Element    (//img[@class='img-responsive'])[47]
-    Selenium2Library.Title Should Be    Sportsbook Bonuses, 2018 Promo & Bonus Codes | MyBookie Online Sportsbook
+    Selenium2Library.Title Should Be    Bonuses, Sportsbook Promotions & Bonus Codes | MyBookie Sportsbook Bonuses
 
 Contests
     Selenium2Library.Set Selenium Implicit Wait    2
