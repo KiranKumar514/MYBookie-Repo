@@ -22,8 +22,6 @@ Homepage
     Selenium2Library.Capture Page Screenshot    filename=s4.png
     sleep    5.5
     Selenium2Library.Capture Page Screenshot    filename=s5.png
-    sleep    5
-    Selenium2Library.Capture Page Screenshot    filename=s6.png
 
 Submenu
     Scroll Page to Location    0    750
